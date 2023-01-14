@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # Apply your own API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 title = st.text_input('Ask me something', 'Who is the best football player of all the times?')
 
